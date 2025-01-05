@@ -1,0 +1,5 @@
+/vendor
+composer.lock
+modules.xml
+php.xml
+vcs.xml
