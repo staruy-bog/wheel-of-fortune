@@ -1,5 +1,6 @@
 <?php
 
+use entities\Prize;
 use PHPUnit\Framework\TestCase;
 
 class PrizeTest extends TestCase
